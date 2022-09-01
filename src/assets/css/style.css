@@ -1,0 +1,36 @@
+body{margin:0px; padding: 0px;}
+main{ width: 1024px; border:0px solid red; height: 800px; margin:auto; }
+header{height: 120px; background: #03640B;}
+h1{color: white; margin-top: 0px;}
+nav ul{margin:0px; padding: 0px; list-style-type: none;
+	background: black; padding: 10px;} 
+nav ul li{ display: inline; margin-left: 15px; padding: 15px;
+	line-height: 30px;}
+nav ul li a{color: yellow;text-decoration: none;}
+nav ul li a:hover{color: orange;text-decoration: underline;}
+
+#left-bar ul{margin:0px; padding: 0px; list-style-type: none;
+ margin-top: 20px;} 
+#left-bar ul li{ margin-left: 15px;
+	line-height: 30px; border-bottom: 1px dotted black;}
+#left-bar ul li a{color: black;text-decoration: none;}
+#left-bar ul li a:hover{color: orange;text-decoration: underline;}
+
+#left{width: 250px; height: 600px; background: pink; float: left;}
+#right{width: 250px; height: 600px; background: pink; float: right;}
+#center{background: orange;  height: 570px; width:514px;
+margin-left: 250px; padding: 14px;}
+footer{height: 80px; background: pink;}
+#header-left{width:350px; border:0px solid red; height: 120px; float: left;}
+#header-right{width:350px; border:0px solid red; height: 120px;float: right;}
+#logo{font-size: 35px; color: yellow;
+padding-top: 15px; padding-left: 15px;}
+#slogan{font-size: 18px; color: pink;
+padding-top: 15px; padding-left: 15px;}
+#phone-icon{float: left; padding-top: 10px;}
+#phone{float: right; padding-right: 150px;color: white;
+font-size: 28px; padding-top: 10px;}
+.social-icons{float: left; padding-right: 20px; padding-top: 35px;}
+.center-image{float: left; margin-right:8px;}
+.center-box{float: left; height: 100px; width: 100px;
+border: 1px dotted red; padding: 20px; margin-right: 20px;}
